@@ -1,7 +1,7 @@
 {
   "name": "testin",
   "version": "0.1.0",
-  "homepage": "https://tzikas.github.io/somethangelse",
+  "homepage": "https://tzikas.github.io/testin",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
